@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/chatpressdemo/static/css/main.37f3f2ef.css",
+    "main.js": "/chatpressdemo/static/js/main.9fa2c17a.js",
+    "static/js/453.bd5edc48.chunk.js": "/chatpressdemo/static/js/453.bd5edc48.chunk.js",
+    "static/media/chatpressIcon.png": "/chatpressdemo/static/media/chatpressIcon.ad57ce83077102e20dfa.png",
+    "static/media/logo.svg": "/chatpressdemo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chatpressdemo/index.html",
+    "main.37f3f2ef.css.map": "/chatpressdemo/static/css/main.37f3f2ef.css.map",
+    "main.9fa2c17a.js.map": "/chatpressdemo/static/js/main.9fa2c17a.js.map",
+    "453.bd5edc48.chunk.js.map": "/chatpressdemo/static/js/453.bd5edc48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37f3f2ef.css",
+    "static/js/main.9fa2c17a.js"
+  ]
+}
